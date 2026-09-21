@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# environmental varibales
+.env
+
+# unwanted python files
+main.py
+tests.py
+
+# unwanted files
+agent-idea.txt
