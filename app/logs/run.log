@@ -1,0 +1,10 @@
+2026-09-22 11:09:29.443 | INFO     | __main__:<module>:13 - What to check?
+students marks relation to study time, with dummy data
+
+2026-09-22 11:09:31.642 | INFO     | app.sandbox.docker_sandbox:set_sandbox_img:22 - image container exist!
+2026-09-22 11:09:31.646 | INFO     | app.sandbox.docker_sandbox:gen_temp_file:67 - temp file path is = C:\Users\Lenovo\AppData\Local\Temp\sandbox_workspace\tmp4taf9epy.py
+2026-09-22 11:09:39.404 | INFO     | __main__:<module>:27 - Output from container :- 
+2026-09-22 11:09:39.405 | INFO     | __main__:<module>:30 - Running on Linux platform. Home directory: /root
+Correlation between study time and marks: 0.944
+marks_vs_study.png
+2026-09-22 11:09:39.406 | INFO     | __main__:<module>:39 - image saved at = C:\Users\Lenovo\AppData\Local\Temp\sandbox_workspace\marks_vs_study.png
